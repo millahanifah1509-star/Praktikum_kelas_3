@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman", serif;
+}
+
+#header {
+    background-color: rgb(134, 246, 246);
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid rgb(255, 169, 169);
+}
+
+#header h1 {
+    margin: 15px 0;
+}
+
+#header h3 {
+    margin: 10px 0;
+}
+
+#menu {
+    float: left;
+    width: 140px;
+    height: 210px;
+    background-color: white;
+    border-right: 2px solid gray;
+}
+
+#isi {
+    margin-left: 142px;
+    height: 210px;
+    background-color: pink;
+    padding: 5px 10px;
+}
+
+#footer {
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+}
